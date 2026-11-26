@@ -1,0 +1,8 @@
+{
+  "name": "AutoMiner",
+  "version_number": "1.0.0",
+  "website_url": "https://thunderstore.io",
+  "description": "Автосбор поинтов с майнинг-ферм, снятие лимита 512 токенов, защита от перегрева, отключение расхода энергии и настройка скорости через ModMenu (VotV 0.9.0n).",
+  "dependencies": [
+  ]
+}
